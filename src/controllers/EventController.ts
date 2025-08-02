@@ -27,3 +27,5 @@ class EventController{
         res.status(204).send();
     }
 }
+
+export default EventController;
